@@ -5,7 +5,6 @@ This repository breaks down the end-to-end lifecycle of institutional trade exec
 It covers OMS, EMS, compliance workflows, data integrations, and areas where product decisions influence scalability, risk, and adoption.
 
 ---
-
 ## 1. Institutional Trading Stack Overview
 
 Institutional trading platforms typically consist of:
