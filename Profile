@@ -1,8 +1,24 @@
 # Hi, I'm Nihal 👋
 
-## 🚀 Product Manager 
-I build structured, data-driven products in FinTech and SaaS domains.
-## 🔍 What You'll Find Here
-- Product case studies
-- Growth experiments
-- Analytics deep dives
+## Product Manager | FinTech SaaS | Trading & Compliance Systems
+
+I build and scale SaaS products in institutional trading and compliance domains. 
+Experienced across front-to-back-office workflows, GTM execution, and data-led product decisions.
+
+## What I Focus On
+- Trading infrastructure & OMS/EMS workflows
+- Compliance automation
+- Feature adoption & ARR impact
+- API integrations & data flows
+- Metrics-driven prioritization
+
+## Selected Work Themes
+- Retention & adoption strategy in trading platforms
+- Compliance alerting systems
+- Product-led GTM playbooks
+- SQL-driven user insights
+
+## Currently Exploring
+- Product analytics
+- AI integrations in workflow systems
+- Scalable SaaS architecture patterns
